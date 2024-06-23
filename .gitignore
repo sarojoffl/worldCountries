@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+
+# Ignore IDE files
+*.pyc
+.vscode/
+.idea/
+*.sublime-workspace
